@@ -15,6 +15,14 @@ konten = [
     gambar: "NamaFileGambar/Foto",
     ucapan: "UcapanKalian",
   },
+    {
+     gambar: "",
+     ucapan: "",
+    },
+    {
+      gambar: "",
+      ucapan: "",
+    },
 ];
 
 musik = "musik.mp3";
